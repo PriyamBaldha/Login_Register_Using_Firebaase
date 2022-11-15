@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "738233886698",
+    "project_id": "login-register-73c21",
+    "storage_bucket": "login-register-73c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738233886698:android:e20c0600686c83f7523493",
+        "android_client_info": {
+          "package_name": "com.priyam.login_register_sign_up_with_google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738233886698-ksirmi4l52oasht8v7n5ecj3p5or87cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.priyam.login_register_sign_up_with_google",
+            "certificate_hash": "7c93d58c295e1fd663d2204a8211cd2e1f81cd33"
+          }
+        },
+        {
+          "client_id": "738233886698-jh97ievgit0sqpq1gpbu9p6pg1dmnh3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSDBF5tyNp8B6fRzOWU6Pyl3m47O_bmMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738233886698-jh97ievgit0sqpq1gpbu9p6pg1dmnh3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
