@@ -11,8 +11,13 @@
 </p>
 
 <p align=center>
-<img src="https://user-images.githubusercontent.com/111503264/201969252-ca0d5ee3-c3de-4718-b897-99f02f8d69c2.mp4" height=500 width=250>
+<img src="https://user-images.githubusercontent.com/111503264/201973892-a9d3e60f-796c-4abd-92af-4a23ef888c17.gif" height=500 width=250>
 </p>
+
+
+<img src="https://user-images.githubusercontent.com/111503264/201974283-fffbc527-a8fb-430d-b1b2-8581248fc714.png">
+
+
 
 
 
